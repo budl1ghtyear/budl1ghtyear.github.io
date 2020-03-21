@@ -1,13 +1,15 @@
 # Bud's Adventures In Numberland
 
-Test Blog. Ideas for content (& a test for lists are):
+1. TOC
+{:toc}
+
+## Test of Lists
 * a
 * b
 * c
 
-Great article on [fast.ai](https://www.fast.ai/2020/01/16/fast_template/) which simplified the creation of this blog. 
 
-Testing the mathematical notation capability:
+## Testing of Maths Rendering
 
 $$
 \begin{aligned}
@@ -15,3 +17,6 @@ y &= x^2 \\
 \frac{dy}{dx} &= 2x \\
 \end{aligned}
 $$
+
+## Reference
+This fantastic reference on [fast.ai](https://www.fast.ai/2020/01/16/fast_template/) helped to immensely simplify the process of making blogs like this one. 
