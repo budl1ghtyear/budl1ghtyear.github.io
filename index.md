@@ -10,8 +10,8 @@ Great article on [fast.ai](https://www.fast.ai/2020/01/16/fast_template/) which 
 Testing the mathematical notation capability:
 
 $$
-\begin{align}
+\begin{aligned}
 y &= x^2 \\
 \frac{dy}{dx} &= 2x \\
-\end{align}
+\end{aligned}
 $$
